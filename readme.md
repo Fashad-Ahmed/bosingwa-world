@@ -1,0 +1,1 @@
+The project was from "Writing your first Hello World contract in Solidity" course, in which a contract is created using eth.js and deployed.
